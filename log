@@ -1,0 +1,36 @@
+--2020-02-07 17:58:49--  http://www.cricinfo.com/ci/engine/match/1213062.html?CMP=OTC-RSS
+Resolving www.cricinfo.com (www.cricinfo.com)... 52.208.55.23, 108.128.48.182
+Connecting to www.cricinfo.com (www.cricinfo.com)|52.208.55.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.espncricinfo.com/ci/engine/match/1213062.html?CMP=OTC-RSS [following]
+--2020-02-07 17:58:50--  http://www.espncricinfo.com/ci/engine/match/1213062.html?CMP=OTC-RSS
+Resolving www.espncricinfo.com (www.espncricinfo.com)... 52.214.208.205, 54.154.136.239, 3.248.75.58
+Connecting to www.espncricinfo.com (www.espncricinfo.com)|52.214.208.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.espncricinfo.com/series/19430/game/1213062/pakistan-vs-bangladesh-1st-test-icc-world-test-championship-2019-2021 [following]
+--2020-02-07 17:58:50--  https://www.espncricinfo.com/series/19430/game/1213062/pakistan-vs-bangladesh-1st-test-icc-world-test-championship-2019-2021
+Connecting to www.espncricinfo.com (www.espncricinfo.com)|52.214.208.205|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /series/19430/game/1213062/pakistan-vs-bangladesh-1st-test-bangladesh-in-pakistan-2019-20 [following]
+--2020-02-07 17:58:51--  https://www.espncricinfo.com/series/19430/game/1213062/pakistan-vs-bangladesh-1st-test-bangladesh-in-pakistan-2019-20
+Reusing existing connection to www.espncricinfo.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 476308 (465K) [text/html]
+Saving to: ‘site.html’
+
+     0K .......... .......... .......... .......... .......... 10%  111K 4s
+    50K .......... .......... .......... .......... .......... 21%  222K 2s
+   100K .......... .......... .......... .......... .......... 32% 5.48M 1s
+   150K .......... .......... .......... .......... .......... 42%  233K 1s
+   200K .......... .......... .......... .......... .......... 53% 3.54M 1s
+   250K .......... .......... .......... .......... .......... 64% 2.68M 1s
+   300K .......... .......... .......... .......... .......... 75%  210K 0s
+   350K .......... .......... .......... .......... .......... 85% 57.1M 0s
+   400K .......... .......... .......... .......... .......... 96%  105M 0s
+   450K .......... .....                                      100% 95.3M=1.2s
+
+2020-02-07 17:58:52 (397 KB/s) - ‘site.html’ saved [476308/476308]
+
+FINISHED --2020-02-07 17:58:52--
+Total wall clock time: 3.3s
+Downloaded: 1 files, 465K in 1.2s (397 KB/s)

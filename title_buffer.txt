@@ -1,0 +1,33 @@
+<title>Cricinfo Live Scores</title>
+<title>Jharkhand 51 &amp;  242/10 * v Chhattisgarh 559/10 </title>
+<title>Arunachal Pradesh 163/10 &amp;  351/10  v Bihar 227/4 &amp;  291/10 *</title>
+<title>Delhi 333/8 &amp;  293/10  v Gujarat 128/2 &amp;  335/10 *</title>
+<title>Rajasthan 201/10 &amp;  241/10  v Bengal 320/8 &amp;  123/10 *</title>
+<title>Vidarbha 326/10  v Kerala 191/3 *</title>
+<title>Karnataka 426/10 &amp;  62/1 * v Madhya Pradesh 431/10 </title>
+<title>Railways 545/7  v Himachal Pradesh 165/3 &amp;  283/10 *</title>
+<title>Saurashtra 158/7 &amp;  335/10 * v Mumbai 362/7 &amp;  262/10 </title>
+<title>Maharashtra 543/5 &amp;  40 * v Odisha 293/10 &amp;  289/10 </title>
+<title>South Western Districts 91/10  v North West 196/10 &amp;  82/7 *</title>
+<title>Guyana 17 * v Jamaica 187/10 </title>
+<title>Windward Islands v Trinidad &amp; Tobago 232/2 *</title>
+<title>New Zealand A 276/5 * v India A</title>
+<title>England Women 124/6 * v India Women 123/6 </title>
+<title>East Zone (Bangladesh) v South Zone (Bangladesh) 443/6 *</title>
+<title>Central Zone (Bangladesh) 170/10  v North Zone (Bangladesh) 89/3 *</title>
+<title>Kandy Customs Cricket Club 46/10  v Sri Lanka Navy Sports Club 219/6 *</title>
+<title>Sri Lanka Air Force Sports Club 96/10  v Galle Cricket Club 146/6 *</title>
+<title>Sri Lanka Ports Authority Cricket Club 19 * v Kurunegala Youth Cricket Club 235/10 </title>
+<title>Burgher Recreation Club v Colombo Cricket Club 416/10 *</title>
+<title>Colts Cricket Club v Sri Lanka Army Sports Club 265/9 *</title>
+<title>Sinhalese Sports Club v Negombo Cricket Club 299/4 *</title>
+<title>Nondescripts Cricket Club 385/5 * v Lankan Cricket Club</title>
+<title>Tamil Union Cricket and Athletic Club 162/10  v Chilaw Marians Cricket Club 64/1 *</title>
+<title>Pakistan v Bangladesh 199/6 *</title>
+<title>Australia Under-19s 300/5 * v West Indies Under-19s</title>
+<title>South Africa v England</title>
+<title>Cape Cobras v Lions</title>
+<title>Knights v Warriors</title>
+<title>Titans 2 * v Dolphins</title>
+<title>Oman Women v Germany Women</title>
+<title>New Zealand v India</title>
