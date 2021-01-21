@@ -6,6 +6,6 @@ This uses bash script for scrapping the website and providing all the informatio
 
 To run this program clone the code and then give permission & run the *cric.sh* file in terminal.
 ```bash
-chmod 755
+chmod 755 cric.sh
 source cric.sh
 ```
